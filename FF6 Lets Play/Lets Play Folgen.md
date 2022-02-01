@@ -7,7 +7,7 @@ Sie suchen offenbar das Mädchen mit den magischen Kräften (also [[Perra]]).
 Bei der Fluch Treffen [[Lucke]] und [[Perra]] auf Mogys die ihnen helfen.
 
 # Lets Play Episode 02
-Reise auf der Welkarte südlich in die Wüste zur [[Burg Figaro]].
+Reise auf der Weltkarte südlich in die Wüste zur [[Burg Figaro]].
 In der Bug ist ein Kerker.
 Wir lernen [[König Eddgar]] kennen.
 Wir lernen das er einen Bruder namens [[Saab]] hat in einer Rückblende.

@@ -7,11 +7,27 @@
         "id": "841a052c570e521c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Pasted image 20220201215710.png"
+            "file": "FF6 Lets Play/Lets Play Folgen.md",
+            "mode": "source",
+            "source": false
           }
-        }
+        },
+        "group": "0dfe557caaabdcf6"
+      },
+      {
+        "id": "9f0ecc997b25a25b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FF6 Lets Play/Lets Play Folgen.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "0dfe557caaabdcf6"
       }
     ],
     "direction": "vertical"
@@ -67,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20220201215710.png",
+                "file": "FF6 Lets Play/Lets Play Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +111,15 @@
   },
   "active": "841a052c570e521c",
   "lastOpenFiles": [
-    "Images/Pasted image 20220201215710.png",
-    "FF6 Lets Play/Charaktere/Banon.md",
+    "FF6 Lets Play/Lets Play Folgen.md",
+    "FF6 Lets Play/Charaktere/Wolfgang von Stibitz.md",
+    "FF6 Lets Play/Orte/Burg Figaro.md",
     "FF6 Lets Play/Charaktere/Vargas.md",
-    "Images/Pasted image 20220201215720.png",
-    "FF6 Lets Play/Charaktere/Greis.md",
-    "FF6 Lets Play/Charaktere/Lucke.md",
     "FF6 Lets Play/Charaktere/Saab.md",
-    "FF6 Lets Play/Charaktere.md",
+    "FF6 Lets Play/Charaktere/Perra.md",
+    "FF6 Lets Play/Charaktere/Mogrys.md",
     "FF6 Lets Play/Charaktere/Meister Duncan.md",
-    "FF6 Lets Play/Lets Play Folgen.md"
+    "FF6 Lets Play/Charaktere/Lucke.md",
+    "FF6 Lets Play/Charaktere/Lehrer.md"
   ]
 }

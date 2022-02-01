@@ -1,5 +1,7 @@
+# Portrait
 ![[Pasted image 20220201215710.png]]
 
+## Sprite
 ![[Pasted image 20220201215720.png]]
 
 Anführer der [[Die Rückkehrer]]
