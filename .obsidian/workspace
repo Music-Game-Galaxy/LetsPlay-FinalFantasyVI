@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "163ecdb7bb268f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "841a052c570e521c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FF6 Lets Play/Charaktere/Saab.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "995312c5c55cc53d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d0ac147805e37c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "521378b08915e8ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26b0b2c1627b36b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9dff459bb553f8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "731cc572e5de85d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c72c18c2258dfe7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FF6 Lets Play/Charaktere/Saab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "841a052c570e521c",
+  "lastOpenFiles": [
+    "FF6 Lets Play/Charaktere/Saab.md",
+    "FF6 Lets Play/Charaktere/Vargas.md",
+    "FF6 Lets Play/Charaktere/Meister Duncan.md",
+    "FF6 Lets Play/Charaktere/Banon.md",
+    "FF6 Lets Play/Charaktere.md",
+    "FF6 Lets Play/Lets Play Folgen.md",
+    "FF6 Lets Play/Orte/Narshe.md",
+    "FF6 Lets Play/Orte/Burg Figaro.md",
+    "FF6 Lets Play/Charaktere/Wolfgang von Stibitz.md",
+    "FF6 Lets Play/Charaktere/Lucke.md"
+  ]
+}

@@ -1,0 +1,14 @@
+# Portrait
+![[Pasted image 20220129222500.png]]
+
+## Sprite
+![[Pasted image 20220129222400.png]]
+
+### weiteres
+Der Zwillingsbruder von [[König Eddgar]]. Dem Königsthron entsagt, zog er win die Welt, um Freiheit zu finden.
+
+Findelkind, wuchs bei [[Meister Duncan]] auf
+
+Faustwirbel: <- -> <-
+???: Runter Links-Unten Links
+Meteorit: RL Hoch Runter ?
