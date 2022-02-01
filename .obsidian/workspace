@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere/Banon.md",
+            "file": "FF6 Lets Play/Charaktere.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere/Banon.md",
+            "file": "FF6 Lets Play/Charaktere.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Charaktere/Banon.md",
+                "file": "FF6 Lets Play/Charaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "841a052c570e521c",
   "lastOpenFiles": [
+    "FF6 Lets Play/Charaktere.md",
     "FF6 Lets Play/Charaktere/Banon.md",
     "README.md",
     "FF6 Lets Play/Lets Play Folgen.md",
@@ -119,7 +120,6 @@
     "FF6 Lets Play/Charaktere/Vargas.md",
     "FF6 Lets Play/Charaktere/Saab.md",
     "FF6 Lets Play/Charaktere/Perra.md",
-    "FF6 Lets Play/Charaktere/Mogrys.md",
-    "FF6 Lets Play/Charaktere/Meister Duncan.md"
+    "FF6 Lets Play/Charaktere/Mogrys.md"
   ]
 }

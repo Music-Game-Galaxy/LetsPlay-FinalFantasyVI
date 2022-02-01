@@ -11,7 +11,7 @@ Figur|Sprecher|Stimme
 -|-|-
 Erzähler|Jan|Langsam, etwas tiefer
 [[Kefka]]|Daniele|Kinski
-Gestahl|Kai|militärisch, ganz leicht Hiltermässig
+Gestahl|Kai|militärisch, ganz leicht Hitlermässig
 [[Vargas]]|Daniele|schreit übertrieben, tief, muss kacken
 [[Banon]]|Jan|laut, Löwe
 
