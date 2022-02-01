@@ -12,7 +12,6 @@ Figur|Sprecher|Stimme
 Erzähler|Jan|Langsam, etwas tiefer
 [[Kefka]]|Daniele|Kinski
 Gestahl|Kai|militärisch, ganz leicht Hitlermässig
-[[Vargas]]|Daniele|schreit übertrieben, tief, muss kacken
 [[Banon]]|Jan|laut, Löwe
 
 ### NPCs
@@ -31,4 +30,5 @@ Figaro Wache|Daniele|spanischer Akzent
 Hohepriesterin|Kai|wie Peach, aber tiefer
 Gefangene|Jan|wie das Behemoth
 [[Wolfgang von Stibitz]]|Jan|Behemoth, lauter uns etwas sauer
+[[Vargas]]|Daniele|schreit übertrieben, tief, muss kacken
 
