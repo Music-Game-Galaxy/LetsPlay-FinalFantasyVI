@@ -12,8 +12,8 @@ Figur|Sprecher|Stimme
 Erzähler|Jan|Langsam, etwas tiefer
 [[Kefka]]|Daniele|Kinski
 Gestahl|Kai|militärisch, ganz leicht Hiltermässig
-Vargas|Daniele|schreit übertrieben, tief, muss kacken
-
+[[Vargas]]|Daniele|schreit übertrieben, tief, muss kacken
+[[Banon]]|Jan|laut, Löwe
 
 ### NPCs
 
