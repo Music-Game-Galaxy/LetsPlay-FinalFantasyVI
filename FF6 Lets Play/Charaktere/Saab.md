@@ -5,9 +5,9 @@
 ![[Pasted image 20220129222400.png]]
 
 ### weiteres
-Der Zwillingsbruder von [[König Eddgar]]. Dem Königsthron entsagt, zog er win die Welt, um Freiheit zu finden.
+Der Zwillingsbruder von [[König Eddgar]]. Dem Königsthron entsagt, zog er in die Welt, um Freiheit zu finden.
 
-Findelkind, wuchs bei [[Meister Duncan]] auf
+Findelkind, wuchs bei [[Meister Duncan]] auf.
 
 ## Blitztechs
 Immer am Ende A drücken:

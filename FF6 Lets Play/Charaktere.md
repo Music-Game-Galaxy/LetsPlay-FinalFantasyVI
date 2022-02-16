@@ -5,6 +5,9 @@ Figur|Sprecher|Stimme
 [[Lucke]]|Kai|schnell, gut gelaunt
 [[König Eddgar]]|Jan|etwas royal, verspielt
 [[Saab]]|Daniele|leicht dämlich
+[[Shadow]]|Kai|kehlig
+[[Celda]]|Jan|deprimiert
+[[Cyan]]|Kai|
 
 ## wichtige NPCs
 Figur|Sprecher|Stimme
