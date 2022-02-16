@@ -7,7 +7,7 @@ Figur|Sprecher|Stimme
 [[Saab]]|Daniele|leicht dämlich
 [[Shadow]]|Kai|kehlig
 [[Celda]]|Jan|deprimiert
-[[Cyan]]|Kai|
+[[Cyjan]]|Kai|
 
 ## wichtige NPCs
 Figur|Sprecher|Stimme
