@@ -7,11 +7,9 @@
         "id": "841a052c570e521c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "FF6 Lets Play/Charaktere.md",
-            "mode": "source",
-            "source": false
+            "file": "Images/Pasted image 20220216215302.png"
           }
         },
         "group": "0dfe557caaabdcf6"
@@ -20,11 +18,9 @@
         "id": "9f0ecc997b25a25b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "FF6 Lets Play/Charaktere.md",
-            "mode": "source",
-            "source": false
+            "file": "Images/Pasted image 20220216215302.png"
           }
         },
         "group": "0dfe557caaabdcf6"
@@ -83,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Charaktere.md",
+                "file": "Images/Pasted image 20220216215302.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +105,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9f0ecc997b25a25b",
+  "active": "841a052c570e521c",
   "lastOpenFiles": [
+    "Images/Pasted image 20220216215302.png",
+    "Shadow.md",
     "FF6 Lets Play/Charaktere.md",
     "FF6 Lets Play/Charaktere/Cyjan.md",
     "Images/Pasted image 20220216214443.png",
@@ -118,8 +116,6 @@
     "FF6 Lets Play/Charaktere/Saab.md",
     "FF6 Lets Play/Charaktere/Lucke.md",
     "FF6 Lets Play/Fraktionen/Imperium.md",
-    "FF6 Lets Play/Charaktere/Gestahl.md",
-    "FF6 Lets Play/Charaktere/Kefka.md",
-    "FF6 Lets Play/Fraktionen/Die Rückkehrer.md"
+    "FF6 Lets Play/Charaktere/Gestahl.md"
   ]
 }
