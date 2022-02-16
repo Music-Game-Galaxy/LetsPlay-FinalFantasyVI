@@ -11,7 +11,7 @@ Figur|Sprecher|Stimme
 -|-|-
 Erzähler|Jan|Langsam, etwas tiefer
 [[Kefka]]|Daniele|Kinski
-Gestahl|Kai|militärisch, ganz leicht Hitlermässig
+[[Gestahl]]|Kai|militärisch, ganz leicht Hitlermässig
 [[Banon]]|Jan|laut, Löwe
 
 ### NPCs
