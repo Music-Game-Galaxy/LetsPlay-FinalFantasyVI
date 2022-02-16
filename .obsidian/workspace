@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere.md",
+            "file": "FF6 Lets Play/Charaktere/Banon.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere.md",
+            "file": "FF6 Lets Play/Charaktere/Banon.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Charaktere.md",
+                "file": "FF6 Lets Play/Charaktere/Banon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "841a052c570e521c",
   "lastOpenFiles": [
-    "FF6 Lets Play/Charaktere.md",
     "FF6 Lets Play/Charaktere/Banon.md",
-    "README.md",
+    "FF6 Lets Play/Fraktionen/Die Rückkehrer.md",
     "FF6 Lets Play/Lets Play Folgen.md",
+    "FF6 Lets Play/Charaktere.md",
+    "README.md",
     "FF6 Lets Play/Charaktere/Wolfgang von Stibitz.md",
     "FF6 Lets Play/Orte/Burg Figaro.md",
     "FF6 Lets Play/Charaktere/Vargas.md",
     "FF6 Lets Play/Charaktere/Saab.md",
-    "FF6 Lets Play/Charaktere/Perra.md",
-    "FF6 Lets Play/Charaktere/Mogrys.md"
+    "FF6 Lets Play/Charaktere/Perra.md"
   ]
 }
