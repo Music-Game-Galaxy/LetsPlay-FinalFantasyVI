@@ -9,6 +9,8 @@ Der Zwillingsbruder von [[König Eddgar]]. Dem Königsthron entsagt, zog er win 
 
 Findelkind, wuchs bei [[Meister Duncan]] auf
 
-Faustwirbel: <- -> <-
-Aurakanone: Runter Links-Unten <-
-Meteorit: R L Unten Oben
+## Blitztechs
+Immer am Ende A drücken:
+- Faustwirbel: <- -> <-
+- Aurakanone: Runter Links-Unten <-
+- Meteorit: R L Unten Oben
