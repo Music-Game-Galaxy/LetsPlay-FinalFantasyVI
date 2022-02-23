@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Lets Play Folgen.md",
+            "file": "FF6 Lets Play/Charaktere.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Lets Play Folgen.md",
+            "file": "FF6 Lets Play/Charaktere.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Lets Play Folgen.md",
+                "file": "FF6 Lets Play/Charaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "9f0ecc997b25a25b",
   "lastOpenFiles": [
+    "FF6 Lets Play/Charaktere.md",
+    "Seemann.md",
+    "FF6 Lets Play/Charaktere/Cyjan.md",
     "FF6 Lets Play/Lets Play Folgen.md",
     "gehen.md",
     "FF6 Lets Play/Charaktere/Shadow.md",
     "FF6 Lets Play/Charaktere/König Eddgar.md",
     "FF6 Lets Play/Charaktere/Meister Duncan.md",
     "FF6 Lets Play/Charaktere/Mogrys.md",
-    "FF6 Lets Play/Charaktere/Perra.md",
-    "FF6 Lets Play/Charaktere/Banon.md",
-    "FF6 Lets Play/Charaktere/Gestahl.md",
-    "Images/Pasted image 20220216215302.png"
+    "FF6 Lets Play/Charaktere/Perra.md"
   ]
 }
