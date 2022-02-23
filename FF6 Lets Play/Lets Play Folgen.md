@@ -34,3 +34,5 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 
 # Lets Play Episode 09
 [[Kefka]] vergiftet das Wasser von [[Burg Doma]]. Der König der Burg [[Cyjan]] stirbt, auch Frau und Kind von [[Cyjan]]. Er schwört Vergeltung dem Imperium. [[Cyjan]], [[Saab]] und [[Shaddo]] kämpfen sich aus dem imperialen Camp und wollen nach [[Narshe]].
+# Lets Play Episode 10
+[[Cyjan]] und [[Saab]] gehen durch den Phantomwald und finden den Phantomzug. Sie fahren damit, koppeln die hinteren Wagons ab und essen im Speisewagen.
