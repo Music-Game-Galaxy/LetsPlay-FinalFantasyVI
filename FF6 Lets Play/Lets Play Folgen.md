@@ -13,10 +13,10 @@ Wir lernen [[König Eddgar]] kennen.
 Wir lernen das er einen Bruder namens [[Saab]] hat in einer Rückblende.
 [[Kefka]] kommt und fordert [[König Eddgar]] auf  [[Perra]] auszuhändigen.
 Dieser leugnet sie zu haben, darum zündet [[Kefka]] die Burg an.
-Die 3 fliehen vor Kefka auf Chocobos, währen [[Burg Figaro]] sich eingräbt.
+Die 3 fliehen vor [[Kefka]] auf Chocobos, währen [[Burg Figaro]] sich eingräbt.
 Als [[Perra]] Magie wirkt flippen [[König Eddgar]] und [[Lucke]] ein wenig aus.
 Wollen ihr [[Banon]], den Anführer der [[Die Rückkehrer]] vorstellen.
-Sie wollen durch eine Grotte nach Süd-Figaro.
+Sie wollen durch eine Grotte nach [[Süd-Figaro]].
 
 # Lets Play Episode 03
 
@@ -30,4 +30,4 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 # Lets Play Episode 07
 
 # Lets Play Episode 08
-[[Shadow]] und Saab [[gehen]] zum imperialen Camp. [[Burg Doma]] wird überfallen. [[Cyjan]] tritt auf und besiegt den imperialen Kommandanten.
+[[Shadow]] und Saab gehen zum imperialen Camp. [[Burg Doma]] wird überfallen. [[Cyjan]] tritt auf und besiegt den imperialen Kommandanten.
