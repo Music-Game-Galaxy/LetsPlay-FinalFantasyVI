@@ -31,3 +31,6 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 
 # Lets Play Episode 08
 [[Shadow]] und Saab gehen zum imperialen Camp. [[Burg Doma]] wird überfallen. [[Cyjan]] tritt auf und besiegt den imperialen Kommandanten.
+
+# Lets Play Episode 09
+[[Kefka]] vergiftet das Wasser von [[Burg Doma]]. Der König der Burg [[Cyjan]] stirbt, auch Frau und Kind von [[Cyjan]]. Er schwört Vergeltung dem Imperium. [[Cyjan]], [[Saab]] und [[Shaddo]] kämpfen sich aus dem imperialen Camp und wollen nach [[Narshe]].
