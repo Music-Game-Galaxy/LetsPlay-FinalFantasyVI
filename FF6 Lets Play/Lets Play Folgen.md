@@ -8,7 +8,7 @@ Bei der Fluch Treffen [[Lucke]] und [[Perra]] auf Mogys die ihnen helfen.
 
 # Lets Play Episode 02
 Reise auf der Weltkarte südlich in die Wüste zur [[Burg Figaro]].
-In der Bug ist ein Kerker.
+In der Burg ist ein Kerker.
 Wir lernen [[König Eddgar]] kennen.
 Wir lernen das er einen Bruder namens [[Saab]] hat in einer Rückblende.
 [[Kefka]] kommt und fordert [[König Eddgar]] auf  [[Perra]] auszuhändigen.
