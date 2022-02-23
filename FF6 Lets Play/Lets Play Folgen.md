@@ -17,3 +17,17 @@ Die 3 fliehen vor Kefka auf Chocobos, währen [[Burg Figaro]] sich eingräbt.
 Als [[Perra]] Magie wirkt flippen [[König Eddgar]] und [[Lucke]] ein wenig aus.
 Wollen ihr [[Banon]], den Anführer der [[Die Rückkehrer]] vorstellen.
 Sie wollen durch eine Grotte nach Süd-Figaro.
+
+# Lets Play Episode 03
+
+# Lets Play Episode 04
+
+# Lets Play Episode 05
+
+# Lets Play Episode 06
+Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Floß.
+
+# Lets Play Episode 07
+
+# Lets Play Episode 08
+[[Shadow]] und Saab [[gehen]] zum imperialen Camp. [[Burg Doma]] wird überfallen. [[Cyjan]] tritt auf und besiegt den imperialen Kommandanten.
