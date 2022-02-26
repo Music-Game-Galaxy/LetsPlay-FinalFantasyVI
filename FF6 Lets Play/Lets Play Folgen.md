@@ -25,7 +25,7 @@ Sie wollen durch eine Grotte nach [[Süd-Figaro]].
 # Lets Play Episode 05
 
 # Lets Play Episode 06
-Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Floß.
+Floßfahrt wird fortgesetzt. [[Ultros]] (Krake) wird besiegt. [[Saab]] fällt vom Floß.
 
 # Lets Play Episode 07
 
