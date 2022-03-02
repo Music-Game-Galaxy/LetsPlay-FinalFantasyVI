@@ -8,7 +8,7 @@ Figur|Sprecher|Stimme
 [[Shadow]]|Kai|kehlig
 [[Celda]]|Jan|deprimiert
 [[Cyjan]]|Kai|ukrainisch
-[[Mau]]|Daniele|
+[[Mau]]|Daniele|wie Olli die Katze
 
 ## wichtige NPCs
 Figur|Sprecher|Stimme
