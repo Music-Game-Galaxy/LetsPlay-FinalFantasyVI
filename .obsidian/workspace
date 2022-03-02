@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Fraktionen/Imperium.md",
+            "file": "FF6 Lets Play/Lets Play Folgen.md",
             "mode": "source",
             "source": false
           }
@@ -17,12 +17,24 @@
         "group": "0dfe557caaabdcf6"
       },
       {
+        "id": "8e4db123d8f2f7f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9f0ecc997b25a25b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Fraktionen/Imperium.md",
+            "file": "FF6 Lets Play/Lets Play Folgen.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Fraktionen/Imperium.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +121,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "841a052c570e521c",
+  "active": "8e4db123d8f2f7f7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "FF6 Lets Play/Lets Play Folgen.md",
     "FF6 Lets Play/Fraktionen/Imperium.md",
     "FF6 Lets Play/Charaktere.md",
     "FF6 Lets Play/Fraktionen/Die Rückkehrer.md",
-    "FF6 Lets Play/Lets Play Folgen.md",
     "Images/Pasted image 20220129215840.png",
     "Images/Pasted image 20220129221913.png",
     "Images/Pasted image 20220129222500.png",
     "Images/Pasted image 20220129223332.png",
-    "Images/Pasted image 20220129223820.png",
-    "Images/Pasted image 20220201215710.png"
+    "Images/Pasted image 20220129223820.png"
   ]
 }
