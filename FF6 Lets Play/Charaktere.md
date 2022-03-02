@@ -8,6 +8,7 @@ Figur|Sprecher|Stimme
 [[Shadow]]|Kai|kehlig
 [[Celda]]|Jan|deprimiert
 [[Cyjan]]|Kai|ukrainisch
+[[Mau]]|Daniele|
 
 ## wichtige NPCs
 Figur|Sprecher|Stimme
@@ -35,4 +36,4 @@ Hohepriesterin|Kai|wie Peach, aber tiefer
 Gefangene|Jan|wie das Behemoth
 [[Wolfgang von Stibitz]]|Jan|Behemoth, lauter uns etwas sauer
 [[Vargas]]|Daniele|schreit übertrieben, tief, muss kacken
-
+[[Siegfried]]|Jan|überheblich, bisschen schwul

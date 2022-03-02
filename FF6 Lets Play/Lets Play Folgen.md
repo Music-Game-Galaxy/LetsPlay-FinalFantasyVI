@@ -37,3 +37,4 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 # Episode 10
 [[Cyjan]] und [[Saab]] gehen durch den Phantomwald und finden den Phantomzug. Sie fahren damit, koppeln die hinteren Wagons ab und essen im Speisewagen.
 # Episode 11
+Phantomzug wird besiegt. [[Saab]] und [[Cyjan]] springen die [[Baren-Fälle]] herunter. Sie treffen [[Mau]].
