@@ -17,7 +17,7 @@ Erzähler|Jan|Langsam, etwas tiefer
 [[Kefka]]|Daniele|Kinski
 [[Gestahl]]|Kai|militärisch, ganz leicht Hitlermässig
 [[Banon]]|Jan|laut, Löwe
-[[Leo]]|Dan|weich
+[[Leo]]|Dan|weich, wie Leoardo di Caprio in Titanic
 
 ### NPCs
 

@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "841a052c570e521c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FF6 Lets Play/Charaktere/Mau.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "0dfe557caaabdcf6"
-      },
-      {
         "id": "9f0ecc997b25a25b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere/Mau.md",
+            "file": "FF6 Lets Play/Charaktere/Leo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0e1a32cafdfddf69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FF6 Lets Play/Charaktere/Leo.md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "0dfe557caaabdcf6"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Charaktere/Mau.md",
+                "file": "FF6 Lets Play/Charaktere/Leo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "841a052c570e521c",
+  "active": "9f0ecc997b25a25b",
   "lastOpenFiles": [
-    "FF6 Lets Play/Charaktere/Mau.md",
-    "FF6 Lets Play/Charaktere/Perra.md",
+    "FF6 Lets Play/Charaktere/Leo.md",
     "FF6 Lets Play/Lets Play Folgen.md",
+    "FF6 Lets Play/Charaktere/Lucke.md",
+    "FF6 Lets Play/Charaktere/Mau.md",
+    "FF6 Lets Play/Charaktere/König Eddgar.md",
+    "FF6 Lets Play/Charaktere/Lehrer.md",
     "FF6 Lets Play/Charaktere.md",
+    "FF6 Lets Play/Charaktere/Perra.md",
     "FF6 Lets Play/Charaktere/Gau.md",
-    "FF6 Lets Play/Charaktere/Saab.md",
-    "Seemann.md",
-    "gehen.md",
-    "README.md",
-    "FF6 Lets Play/Charaktere/Cyjan.md"
+    "FF6 Lets Play/Charaktere/Saab.md"
   ]
 }
