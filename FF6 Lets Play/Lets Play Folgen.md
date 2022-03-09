@@ -32,7 +32,7 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 [[Shadow]] und Saab gehen zum imperialen Camp. [[Burg Doma]] wird überfallen. [[Cyjan]] tritt auf und besiegt den imperialen Kommandanten.
 
 # Episode 09
-[[Kefka]] vergiftet das Wasser von [[Burg Doma]]. Der König der Burg [[Cyjan]] stirbt, auch Frau und Kind von [[Cyjan]]. Er schwört Vergeltung dem Imperium. [[Cyjan]], [[Saab]] und [[Shaddo]] kämpfen sich aus dem imperialen Camp und wollen nach [[Narshe]].
+[[Kefka]] vergiftet das Wasser von [[Burg Doma]]. Der König der Burg (ohne Namen) stirbt. Auch Frau und Kind von Fürst [[Cyjan]]. Er schwört Vergeltung dem Imperium. [[Cyjan]], [[Saab]] und [[Shaddo]] kämpfen sich aus dem imperialen Camp und wollen nach [[Narshe]].
 # Episode 10
 [[Cyjan]] und [[Saab]] gehen durch den Phantomwald und finden den Phantomzug. Sie fahren damit, koppeln die hinteren Wagons ab und essen im Speisewagen.
 # Episode 11

@@ -1,6 +1,7 @@
+# Portrait
 ![[Pasted image 20220216214443.png]]
-
+## Sprite
 ![[Pasted image 20220216214454.png]]
-
+### weiteres
 Fürst Cyjan
-Frau und Kind werden von Kefka vergiftet, als dieser das Wasser von Burg Doma vergiftet. Er schwört Vergeltung.
+Seine Frau Elayne und Kind Owain werden von Kefka vergiftet, als dieser das Wasser von Burg Doma vergiftet. Er schwört Vergeltung dem Imperium.

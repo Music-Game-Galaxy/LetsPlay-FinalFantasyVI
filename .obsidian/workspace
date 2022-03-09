@@ -9,23 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere/Leo.md",
+            "file": "FF6 Lets Play/Charaktere/Cyjan.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "91dbdd62a843b5e3"
       },
       {
-        "id": "0e1a32cafdfddf69",
+        "id": "b41e66cbdf5a4747",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FF6 Lets Play/Charaktere/Leo.md",
+            "file": "FF6 Lets Play/Charaktere/Cyjan.md",
             "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "91dbdd62a843b5e3"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FF6 Lets Play/Charaktere/Leo.md",
+                "file": "FF6 Lets Play/Charaktere/Cyjan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +111,15 @@
   },
   "active": "9f0ecc997b25a25b",
   "lastOpenFiles": [
-    "FF6 Lets Play/Charaktere/Leo.md",
+    "FF6 Lets Play/Charaktere/Cyjan.md",
     "FF6 Lets Play/Lets Play Folgen.md",
-    "FF6 Lets Play/Charaktere/Lucke.md",
-    "FF6 Lets Play/Charaktere/Mau.md",
-    "FF6 Lets Play/Charaktere/König Eddgar.md",
-    "FF6 Lets Play/Charaktere/Lehrer.md",
     "FF6 Lets Play/Charaktere.md",
-    "FF6 Lets Play/Charaktere/Perra.md",
+    "FF6 Lets Play/Charaktere/Lehrer.md",
+    "FF6 Lets Play/Charaktere/Banon.md",
+    "FF6 Lets Play/Charaktere/Kefka.md",
+    "FF6 Lets Play/Charaktere/Greis.md",
+    "FF6 Lets Play/Charaktere/Gestahl.md",
     "FF6 Lets Play/Charaktere/Gau.md",
-    "FF6 Lets Play/Charaktere/Saab.md"
+    "FF6 Lets Play/Charaktere/Leo.md"
   ]
 }
