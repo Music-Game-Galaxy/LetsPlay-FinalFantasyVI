@@ -38,4 +38,6 @@ Floßfahrt wird fortgesetzt. Ultros (Krake) wird besiegt. [[Saab]] fällt vom Fl
 # Episode 11
 Phantomzug wird besiegt. [[Saab]] und [[Cyjan]] springen die [[Baren-Fälle]] herunter. Sie treffen [[Mau]] auf dem Bestienfeld.
 # Episode 12
-[[Saab]] und [[Cyjan]] ködern [[Mau]] mit Pökelfleisch. Sie kommen nach Moblitz. Ziel: Mondsichelberg im Osten, von dort geht eine Meeresströmung nach Westen.
+[[Saab]] und [[Cyjan]] ködern [[Mau]] mit Pökelfleisch. Sie kommen nach Moblitz. Ziel: Mondsichelberg im Osten, von dort geht eine Meeresströmung nach Westen. Vermutlich möchte Mau uns den Taucherhelm geben. Schlangengraben.
+# Episode 13
+Mit dem Taucherhelm kommen [[Saab]], [[Cyjan]] und [[Mau]] nach [[Nikeah]]. Sie erkunden die Stadt, mieten einen Chocobo (unnötig) und fahren mit dem Schiff Richtung [[Süd-Figaro]].
