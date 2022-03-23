@@ -10,3 +10,4 @@ Ein Tierjunge, getroffen in der Steppe (?) und mit Pökelfleisch gefügig gemach
 # Rage
 Flüsterer = Gravitas
 Krümler = Engel
+Zalem=Berserker

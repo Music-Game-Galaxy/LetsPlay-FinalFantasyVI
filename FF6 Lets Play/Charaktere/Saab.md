@@ -14,3 +14,4 @@ Immer am Ende A drücken:
 - Faustwirbel: <- -> <-
 - Aurakanone: Runter Links-Unten <-
 - Meteorit: R L Unten Oben
+- Phoenixtanz: L LU U RU R

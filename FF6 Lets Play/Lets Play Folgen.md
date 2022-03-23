@@ -46,3 +46,4 @@ Mit dem Taucherhelm kommen [[Saab]], [[Cyjan]] und [[Mau]] nach [[Nikeah]]. Sie 
 Alle treffen sich in [[Narshe]].
 Das Imperium greift an.
 # Episode 15
+Kefka greift an. Aufteilung in drei Gruppen und Kampf gegen die Soldaten. Auch Kampf gegen Kefka, aber jedes Mal verloren. :(
