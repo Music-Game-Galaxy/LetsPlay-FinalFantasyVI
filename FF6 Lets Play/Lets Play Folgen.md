@@ -41,3 +41,8 @@ Phantomzug wird besiegt. [[Saab]] und [[Cyjan]] springen die [[Baren-Fälle]] he
 [[Saab]] und [[Cyjan]] ködern [[Mau]] mit Pökelfleisch. Sie kommen nach Moblitz. Ziel: Mondsichelberg im Osten, von dort geht eine Meeresströmung nach Westen. Vermutlich möchte Mau uns den Taucherhelm geben. Schlangengraben.
 # Episode 13
 Mit dem Taucherhelm kommen [[Saab]], [[Cyjan]] und [[Mau]] nach [[Nikeah]]. Sie erkunden die Stadt, mieten einen Chocobo (unnötig) und fahren mit dem Schiff Richtung [[Süd-Figaro]].
+# Episode 14
+[[Banon]], [[Perra]] und [[Eddga]] kommen nach [[Narshe]].
+Alle treffen sich in [[Narshe]].
+Das Imperium greift an.
+# Episode 15
