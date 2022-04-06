@@ -52,6 +52,6 @@ Kefka greift an. Aufteilung in drei Gruppen und Kampf gegen die Soldaten. Auch K
 # Episode 17
 Wir gehen nach [[Burg Figaro]] und reisen nach Nordosten nach [[Kohlingen]]. 
 
-Luckes Origin-Story: Seine Ex hat ihr Gedächtnis verloren und er ist weggegangen. Sie wurde dann vom Imperium getötet. Ihr Körper wurde von einem Perversling mit einer Salbe konserviert.
+[[Lucke]]s Origin-Story: Seine Ex hat ihr Gedächtnis verloren und er ist weggegangen. Sie wurde dann vom Imperium getötet. Ihr Körper wurde von einem Perversling mit einer Salbe konserviert.
 
 Als nächstes: Richtung Süden nach [[Jidoor]], im Süden davon ist die Oper.
