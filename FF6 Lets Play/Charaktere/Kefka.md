@@ -7,3 +7,4 @@
 ### weiteres
 Gehört den [[Imperium]] an.
 Sucht nach der Frau mit magischen Kräften, also [[Perra]].
+Hat die Stadt von [[Cyjan]] vergiftet und dabei dessen Frau und Kind.
