@@ -48,3 +48,5 @@ Das Imperium greift an.
 # Episode 15
 Kefka greift an. Aufteilung in drei Gruppen und Kampf gegen die Soldaten. Auch Kampf gegen Kefka, aber jedes Mal verloren. :(
 # Episode 16
+[[Kefka]] wird besiegt. [[Perra]] wird zur Esper(?) und fliegt über die Weltkarte. Alle anderen werden bewusstlos und wachen in [[Narshe]] wieder auf. Sie erkunden die Stadt.
+# Episode 17
