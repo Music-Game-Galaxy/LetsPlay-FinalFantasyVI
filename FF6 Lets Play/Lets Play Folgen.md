@@ -57,7 +57,7 @@ Wir gehen nach [[Burg Figaro]] und reisen nach Nordosten nach [[Kohlingen]].
 Als nächstes: Richtung Süden nach [[Jidoor]], im Süden davon ist die Oper.
 
 # Episode 18
-Kurze Reise nach Norden, dort nur ein einzelnes Haus mit einem Mann, der sich ein Kollosseum wünscht.
+Kurze Reise nach Norden, dort nur ein einzelnes Haus mit einem Mann, der sich ein Kolosseum wünscht.
 
 Lange Reise nach Süden, wir kommen in [[Jidoor]] an und erkunden die Stadt.
 
