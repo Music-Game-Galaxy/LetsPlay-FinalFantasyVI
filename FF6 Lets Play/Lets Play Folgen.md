@@ -63,12 +63,7 @@ Lange Reise nach Süden, wir kommen in [[Jidoor]] an und erkunden die Stadt.
 
 # Episode 19
 Von [[Jidoor]] nach [[Zozo]]. Zufallskämpfe in der Stadt. Piraten sagen Uhrzeiten an und laufen durch ein Gebäude, 6 Uhr fehlt:
-2
-12
-10
-8
-4
-
+2, 12, 10, 8, 4
 Sekunde: 30
 
 # Episode 20
