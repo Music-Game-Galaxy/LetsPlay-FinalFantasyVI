@@ -20,9 +20,3 @@ Magitech-Mech=Protes
 Geist=Schweben / Blitzra
 Krümler = Engel
 Papolium=Klammern
-
-2
-12
-10
-8
-4
