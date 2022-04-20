@@ -59,10 +59,10 @@ Als nächstes: Richtung Süden nach [[Jidoor]], im Süden davon ist die Oper.
 # Episode 18
 Kurze Reise nach Norden, dort nur ein einzelnes Haus mit einem Mann, der sich ein Kollosseum wünscht.
 
-Lange Reise nach Süden, wir kommen in Jidoor an und erkunden die Stadt.
+Lange Reise nach Süden, wir kommen in [[Jidoor]] an und erkunden die Stadt.
 
 # Episode 19
-Von Jidoor nach Zozo. Zufallskämpfe in der Stadt. Piraten sagen Uhrzeiten an und laufen durch ein Gebäude, 6 Uhr fehlt:
+Von [[Jidoor]] nach [[Zozo]]. Zufallskämpfe in der Stadt. Piraten sagen Uhrzeiten an und laufen durch ein Gebäude, 6 Uhr fehlt:
 2
 12
 10
