@@ -68,3 +68,21 @@ Von [[Jidoor]] nach [[Zozo]]. Zufallskämpfe in der Stadt. Piraten sagen Uhrzeit
 10
 8
 4
+
+Sekunde: 30
+
+# Episode 20
+Weiter in [[Zozo]].
+Sekunde: 40
+Die jetzige Sekundenzahl lässt sich durch 20 teilen.
+
+Wir finden [[Perra]] an der Spitze eines Turmes. [[Ramuh]] erscheint und erklärt, dass die Welt der Esper und der Menschen nach dem Magitek-Krieg getrennt wurde. Vor 20 Jahren haben die Menschen aber die Welt der Esper gefunden und Gestahl macht Experimente, bei denen Menschen Esper-Energie injiziert wird. Die Esper-Energie ist aber nicht komplett ohne Esper-Maginit. [[Ramuh]] opfert sich und wird zu einem Maginit, wir bekommen außerdem die Maginiten von drei Espern, die bei der Flucht aus den Laboren gestorben sind.
+
+Wir lassen [[Perra]] zurück.
+
+# Episode 21
+Die Party teilt sich auf: Ein Teil will Narshe beschützen, ein anderer Teil soll in die Labore einbrechen, weil die dort gefangenen Esper Perra möglicherweise helfen können.
+
+Wir lösen das Uhrenrätsel von [[Zozo]] und bekommen ein Gadget für [[Eddgar]].
+
+Wir verlassen Zozo und gehen zurück nach Jidoor.
