@@ -9,5 +9,20 @@ Ein Tierjunge, getroffen in der Steppe (?) und mit Pökelfleisch gefügig gemach
 
 # Rage
 Flüsterer = Gravitas
+Zalem=Berserker/Stein
+Werratte=Gift
+Belmodar=Megavolt (nicht so gut)
+Silvario=Fangzahn (okay)
+Äpoxples=schwebend/Eisennadel (nicht so gut)
+Karatgra=Giftstachel/Protes
+Sybilid=Schere (okay)
+Magitech-Mech=Protes
+Geist=Schweben / Blitzra
 Krümler = Engel
-Zalem=Berserker
+Papolium=Klammern
+
+2
+12
+10
+8
+4

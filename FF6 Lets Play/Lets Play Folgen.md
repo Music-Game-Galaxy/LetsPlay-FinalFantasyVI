@@ -55,3 +55,10 @@ Wir gehen nach [[Burg Figaro]] und reisen nach Nordosten nach [[Kohlingen]].
 [[Lucke]]s Origin-Story: Seine Ex hat ihr Gedächtnis verloren und er ist weggegangen. Sie wurde dann vom Imperium getötet. Ihr Körper wurde von einem Perversling mit einer Salbe konserviert.
 
 Als nächstes: Richtung Süden nach [[Jidoor]], im Süden davon ist die Oper.
+
+# Episode 18
+Kurze Reise nach Norden, dort nur ein einzelnes Haus mit einem Mann, der sich ein Kollosseum wünscht.
+
+Lange Reise nach Süden, wir kommen in Jidoor an und erkunden die Stadt.
+
+# Episode 19
