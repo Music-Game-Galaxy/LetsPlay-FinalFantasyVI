@@ -9,7 +9,7 @@ Figur|Sprecher|Stimme
 [[Celda]]|Jan|deprimiert
 [[Cyjan]]|Kai|ukrainisch
 [[Mau]]|Daniele|wie Olli die Katze
-[[Citzer]]|Kai|-
+[[Citzer]]|Kai|Layton/Falcon
 
 
 
