@@ -97,4 +97,6 @@ Wir lesen das Drehbuch und spielen die Oper. Doch [[Ultros]] taucht auf und wir 
 # Episode 23
 Wir kämpfen noch einmal gegen [[Ultros]] und schaffen es. [[Citzer]] kommt und entführt [[Celda]]. Lucke, Cyjan und Saab schmuggeln sich auch auf das Luftschiff. Celda täuscht Citzer mit einer manipulierten Münze, damit er ihnen hilft.
 
-Wir beuschen die Stadt [[Albrook]]. Ein alter Mann sagt: Tsen und Maranda sind Städte, wo man gute Waffen bekommt
+Im Osten ist etwas vom Imperium - vielleicht das Labor, das wir suchen?
+
+Wir besuchen die Stadt [[Albrook]]. Ein alter Mann sagt: Tsen und Maranda sind Städte, wo man gute Waffen bekommt.
