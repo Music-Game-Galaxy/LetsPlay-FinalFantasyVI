@@ -9,6 +9,10 @@ Figur|Sprecher|Stimme
 [[Celda]]|Jan|deprimiert
 [[Cyjan]]|Kai|ukrainisch
 [[Mau]]|Daniele|wie Olli die Katze
+[[Citzer]]|Kai|-
+
+
+
 
 ## wichtige NPCs
 Figur|Sprecher|Stimme

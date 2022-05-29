@@ -80,4 +80,15 @@ Die Party teilt sich auf: Ein Teil will Narshe beschützen, ein anderer Teil sol
 
 Wir lösen das Uhrenrätsel von [[Zozo]] und bekommen ein Gadget für [[Eddgar]].
 
-Wir verlassen Zozo und gehen zurück nach Jidoor.
+Wir verlassen Zozo und gehen zurück nach [[Jidoor]].
+
+# Episode 22
+Wir wissen nicht, wo wir hin müssen und laufen über die Weltkarte (auch mit Chocobo).
+
+Dann doch wieder nach Jidoor. Dort in die Villa, der Intendant(?) erzählt uns, dass [[Citzer]], ein Luftschiffkapitän, Maria entführen will. [[Celda]] sieht so aus wie Maria, daher soll sie in der Oper mitspielen und sich entführen lassen.
+
+Der Oktopus [[Ultros]] erscheint und verliert einen Brief.
+
+Die Oper beginnt.
+
+# Episode 23
