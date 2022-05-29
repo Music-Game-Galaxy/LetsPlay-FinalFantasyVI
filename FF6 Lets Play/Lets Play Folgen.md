@@ -85,7 +85,7 @@ Wir verlassen Zozo und gehen zurück nach [[Jidoor]].
 # Episode 22
 Wir wissen nicht, wo wir hin müssen und laufen über die Weltkarte (auch mit Chocobo).
 
-Dann doch wieder nach Jidoor. Dort in die Villa, der Intendant(?) erzählt uns, dass [[Citzer]], ein Luftschiffkapitän, Maria entführen will. [[Celda]] sieht so aus wie Maria, daher soll sie in der Oper mitspielen und sich entführen lassen.
+Dann doch wieder nach [[Jidoor]]. Dort in die Villa, der Intendant(?) erzählt uns, dass [[Citzer]], ein Luftschiffkapitän, Maria entführen will. [[Celda]] sieht so aus wie Maria, daher soll sie in der Oper mitspielen und sich entführen lassen.
 
 Der Oktopus [[Ultros]] erscheint und verliert einen Brief.
 
