@@ -94,9 +94,22 @@ Die Oper beginnt.
 # Episode 23
 Wir lesen das Drehbuch und spielen die Oper. Doch [[Ultros]] taucht auf und wir müssen gegen ihn kämpfen. Das erste Mal scheitern wir.
 
-# Episode 23
-Wir kämpfen noch einmal gegen [[Ultros]] und schaffen es. [[Citzer]] kommt und entführt [[Celda]]. Lucke, Cyjan und Saab schmuggeln sich auch auf das Luftschiff. Celda täuscht Citzer mit einer manipulierten Münze, damit er ihnen hilft.
+# Episode 24
+Wir kämpfen noch einmal gegen [[Ultros]] und schaffen es. [[Citzer]] kommt und entführt [[Celda]]. [[Lucke]], [[Cyjan]] und [[Saab]] schmuggeln sich auch auf das Luftschiff. [[Celda]] täuscht [[Citzer]] mit einer manipulierten Münze, damit er ihnen hilft.
 
 Im Osten ist etwas vom Imperium - vielleicht das Labor, das wir suchen?
 
 Wir besuchen die Stadt [[Albrook]]. Ein alter Mann sagt: Tsen und Maranda sind Städte, wo man gute Waffen bekommt.
+
+# Episode 25
+Durchsuchen des Luftschiffes, aber nichts interessantes dort.
+
+Abstecher nach Osten, dort ist ein Imperialer Wachtposten, wir fliegen aber nach dem ersten Kampf raus.
+
+Dann nach Westen, dort kommen wir in die Stadt Vector. Im Inn ist ein Pirat, der uns kostenlos übernachten lässt, aber uns nachts 1000 Gil klaut.
+
+Im Norden der Stadt gibt es den imperialen Palast, wir können uns einschleichen, treffen aber auch einen Wächter, den wir nicht besiegen können und müssen fliehen.
+
+Im Osten der Stadt treffen wir einen alten Mann, der uns helfen will, in das imperiale Labor einzudringen.
+
+# Episode 26
