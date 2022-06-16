@@ -102,11 +102,9 @@ Im Osten ist etwas vom Imperium - vielleicht das Labor, das wir suchen?
 Wir besuchen die Stadt [[Albrook]]. Ein alter Mann sagt: Tsen und Maranda sind Städte, wo man gute Waffen bekommt.
 
 # Episode 25
-Durchsuchen des Luftschiffes, aber nichts interessantes dort.
+Wir durchsuchen des Luftschiffes, aber nichts interessantes dort.
 
-Abstecher nach Osten, dort ist ein Imperialer Wachtposten, wir fliegen aber nach dem ersten Kampf raus.
-
-Dann nach Westen, dort kommen wir in die Stadt Vector. Im Inn ist ein Pirat, der uns kostenlos übernachten lässt, aber uns nachts 1000 Gil klaut.
+Abstecher nach Osten, dort ist ein imperialer Wachtposten, wir fliegen aber nach dem ersten Kampf raus. Wir versuchen es nicht weiter und gehen nach Westen, dort kommen wir in die Stadt Vector. Im Inn ist ein Pirat, der uns kostenlos übernachten lässt, aber uns nachts 1000 Gil klaut.
 
 Im Norden der Stadt gibt es den imperialen Palast, wir können uns einschleichen, treffen aber auch einen Wächter, den wir nicht besiegen können und müssen fliehen.
 
