@@ -111,3 +111,4 @@ Im Norden der Stadt gibt es den imperialen Palast, wir können uns einschleichen
 Im Osten der Stadt treffen wir einen alten Mann, der uns helfen will, in das imperiale Labor einzudringen.
 
 # Episode 26
+Wir laufen durch das imperiale Labor und verirren uns.
