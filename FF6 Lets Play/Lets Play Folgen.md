@@ -111,4 +111,35 @@ Im Norden der Stadt gibt es den imperialen Palast, wir können uns einschleichen
 Im Osten der Stadt treffen wir einen alten Mann, der uns helfen will, in das imperiale Labor einzudringen.
 
 # Episode 26
+Der alte Mann lenkt die Wachen ab, indem er ihnen vor die Füße kotzt.
+
 Wir laufen durch das imperiale Labor und verirren uns.
+
+# Episode 27
+Wir laufen weiter durch das Labor und finden den Weg.
+
+Kefka wirft die ausgesaugten Espers Ifrit und Shiva in den Müllraum. Wir kämpfen gegen sie und sie schließen sich uns an.
+Dann kämpfen wir gegen eine Billig-Ausgabe von Kefka.
+
+# Episode 28
+Wir kommen in das Labor von Dr. Cid. Alle Esper dort verwandeln sich in Maginite, wir bekommen sie. Celda wird von Cid und Kefka als Verräterin bezeichnet, die sich in die Rebellen eingeschlichen haben soll. Sie setzt eine Technik ein und verschwindet mit Kefka und den Mech-Soldaten.
+
+Wir fliehen mit Dr. Cid und fahren mit der Lore. Dann sind wir im Luftschiff.
+
+# Episode 29
+Rückblick in die Welt der Esper: Madeline kommt in die Welt der Esper und trifft dort Maduin. Gemeinsam bekommen sie ein Kind: Perra (Sex-Szene)
+
+Gestahl fällt in die Esperwelt ein und stiehlt Perra. 
+
+Perra hat jetzt ihre Kräfte im Griff (wenigstens kurzfristig)
+
+# Episode 30
+Bestienfeld --> Mau lernt neue Fähigkeiten
+
+Thamasa: Viele unfreundliche Schweizer
+
+Imperialer Außenposten: Wir fliegen immer raus
+
+Tzen: Wir bekommen den Seraph-Maginiten von einem Piraten.
+
+Zum Abschluss fliegen wir nach Narshe, um dort weiterzumachen.

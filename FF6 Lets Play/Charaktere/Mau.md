@@ -9,6 +9,7 @@ Ein Tierjunge, getroffen in der Steppe (?) und mit Pökelfleisch gefügig gemach
 
 # Rage
 Flüsterer = Gravitas
+Kommandeur = Versteinerung
 Zalem=Berserker/Stein
 Werratte=Gift
 Belmodar=Megavolt (nicht so gut)
