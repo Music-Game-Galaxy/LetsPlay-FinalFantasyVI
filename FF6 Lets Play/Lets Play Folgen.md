@@ -145,3 +145,18 @@ Tzen: Wir bekommen den Seraph-Maginiten von einem Piraten.
 Zum Abschluss fliegen wir nach Narshe, um dort weiterzumachen.
 
 # Episode 31
+
+# Episode 32
+
+# Episode 33
+Ende der Siegelhöhle
+Die Esper kommen aus der Siegelhöhle frei. 
+Luftschiff stürzt ab.
+Stadt: Maranda - doch keine guten Waffen.
+Wir gehen weiter.
+
+# Episode 34
+Imperiale Hauptstadt, alles brennt.
+Langes Gespräch mit dem Imperator, 3x entschuldigt.
+Wir müssen nach Albrook, im Süden/Südosten.
+Von dort zur Halbmondinsel, um die Esper zu beruhigen.
