@@ -172,3 +172,4 @@ Die Bewohner der Stadt können alle Magie, weil sie von den Magi abstammen.
 [[Straps]] will uns helfen, die Esper zu finden. Sie sind in den Bergen im Westen zu finden.
 
 # Episode 37
+Wir gehen in eine Höhle in den Bergen. Wir finden drei Götterstatuen (Kriegstriumvirat). Ultros taucht auf und will sie stehlen. Relm X taucht auf und will ihn malen (lustige Szene). Ultros wird besiegt. Wir gehen weiter.
