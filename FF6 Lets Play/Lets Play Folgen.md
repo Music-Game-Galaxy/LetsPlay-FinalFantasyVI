@@ -160,3 +160,12 @@ Imperiale Hauptstadt, alles brennt.
 Langes Gespräch mit dem Imperator, 3x entschuldigt.
 Wir müssen nach Albrook, im Süden/Südosten.
 Von dort zur Halbmondinsel, um die Esper zu beruhigen.
+
+# Episode 35
+Nach Südosten gegangen, in Albrook angekommen.
+In der Herberge, nachts mit Celda geredet.
+Mit dem Schiff und Leo gefahren, Shadow kommt mit.
+Nachts: Perra redet mit Leo über Magitech-Experimente und Schuld.
+Shadow lauscht, Luke kotzt.
+Ankunft auf der Halbmondinsel. 
+Ankunft in Thamasa. Einkaufen.
