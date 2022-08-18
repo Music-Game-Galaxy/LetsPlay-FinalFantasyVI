@@ -135,13 +135,9 @@ Gestahl fällt in die Esperwelt ein und stiehlt [[Perra]].
 
 # Episode 30
 Bestienfeld --> [[Mau]] lernt neue Fähigkeiten
-
 Thamasa: Viele unfreundliche Schweizer
-
 Imperialer Außenposten: Wir fliegen immer raus
-
 Tzen: Wir bekommen den Seraph-Maginiten von einem Piraten.
-
 Zum Abschluss fliegen wir nach Narshe, um dort weiterzumachen.
 
 # Episode 31
@@ -169,3 +165,5 @@ Nachts: Perra redet mit Leo über Magitech-Experimente und Schuld.
 Shadow lauscht, Luke kotzt.
 Ankunft auf der Halbmondinsel. 
 Ankunft in Thamasa. Einkaufen.
+
+# Episode 36
