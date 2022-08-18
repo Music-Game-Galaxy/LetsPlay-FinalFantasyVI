@@ -10,8 +10,8 @@ Figur|Sprecher|Stimme
 [[Cyjan]]|Kai|ukrainisch
 [[Mau]]|Daniele|wie Olli die Katze
 [[Citzer]]|Kai|Layton/Falcon
-
-
+[[Straps]]|Daniele|lüstern
+[[Relm X]]|Kai|kindlich
 
 
 ## wichtige NPCs

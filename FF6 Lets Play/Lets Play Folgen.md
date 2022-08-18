@@ -167,3 +167,8 @@ Ankunft auf der Halbmondinsel.
 Ankunft in [[Thamasa]]. Einkaufen.
 
 # Episode 36
+Wir treffen [[Straps]] und [[Relm X]]. Ein Haus fängt an zu brennen, wir retten Relm X daraus.
+Die Bewohner der Stadt können alle Magie, weil sie von den Magi abstammen.
+[[Straps]] will uns helfen, die Esper zu finden. Sie sind in den Bergen im Westen zu finden.
+
+# Episode 37
