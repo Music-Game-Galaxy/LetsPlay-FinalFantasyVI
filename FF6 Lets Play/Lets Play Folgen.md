@@ -167,9 +167,14 @@ Ankunft auf der Halbmondinsel.
 Ankunft in [[Thamasa]]. Einkaufen.
 
 # Episode 36
-Wir treffen [[Straps]] und [[Relm X]]. Ein Haus fängt an zu brennen, wir retten Relm X daraus.
+Wir treffen [[Straps]] und [[Relm X]]. Ein Haus fängt an zu brennen, wir retten [[Relm X]] daraus.
 Die Bewohner der Stadt können alle Magie, weil sie von den Magi abstammen.
 [[Straps]] will uns helfen, die Esper zu finden. Sie sind in den Bergen im Westen zu finden.
 
 # Episode 37
-Wir gehen in eine Höhle in den Bergen. Wir finden drei Götterstatuen (Kriegstriumvirat). Ultros taucht auf und will sie stehlen. Relm X taucht auf und will ihn malen (lustige Szene). Ultros wird besiegt. Wir gehen weiter.
+Wir gehen in eine Höhle in den Bergen. Wir finden drei Götterstatuen (Kriegstriumvirat). [[Ultros]] taucht auf und will sie stehlen. [[Relm X]] taucht auf und will ihn malen (lustige Szene). [[Ultros]] wird besiegt. Wir gehen weiter.
+
+# Episode 38
+Wir irren durch die Höhlen. Am Ende finden wir die jungen Esper. Sie entschuldigen sich.
+
+# Episode 39
