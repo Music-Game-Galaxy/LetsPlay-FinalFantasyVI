@@ -178,3 +178,5 @@ Wir gehen in eine Höhle in den Bergen. Wir finden drei Götterstatuen (Kriegstr
 Wir irren durch die Höhlen. Am Ende finden wir die jungen Esper. Sie entschuldigen sich.
 
 # Episode 39
+Leo und die Esper einigen sich. Kefka greift an, verwandelt die Esper in Maginite und tötet Leo. Das Dorf wird zerstört. Die alten Esper brechen aus dem Siegelwall aus. Kefka verwandelt auch sie in Maginite. Er und Gestahl machen sich auf den Weg hinter den Siegelwall.
+Wir sind zurück auf dem Luftschiff und haben uns ausgerüstet.
