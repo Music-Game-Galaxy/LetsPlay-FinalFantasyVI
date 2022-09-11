@@ -180,3 +180,9 @@ Wir irren durch die Höhlen. Am Ende finden wir die jungen Esper. Sie entschuldi
 # Episode 39
 Leo und die Esper einigen sich. Kefka greift an, verwandelt die Esper in Maginite und tötet Leo. Das Dorf wird zerstört. Die alten Esper brechen aus dem Siegelwall aus. Kefka verwandelt auch sie in Maginite. Er und Gestahl machen sich auf den Weg hinter den Siegelwall.
 Wir sind zurück auf dem Luftschiff und haben uns ausgerüstet.
+
+# Episode 40
+Wir fliegen mit dem Luftschiff zum magischen Kontinent. Das Luftschiff wird von Magitek-Mechs angegriffen, dann von Ultros und Typhon. Wir werden von Typhon vom Luftschiff geblasen und landen auf dem magischen Kontinent. Dort finden wir [[Shaddo]].
+
+# Episode 41
+Wir irren auf dem magischen Kontinent umher. Subspirit bei Celda war stark. Wir müssen den richtigen Weg finden.
