@@ -186,3 +186,9 @@ Wir fliegen mit dem Luftschiff zum magischen Kontinent. Das Luftschiff wird von 
 
 # Episode 41
 Wir irren auf dem magischen Kontinent umher. Subspirit bei Celda war stark. Wir müssen den richtigen Weg finden.
+
+# Episode 42
+Wir irren auf dem magischen Kontinent umher. Wir haben den Speicherraum gefunden.
+
+# Episode 43
+Wir besiegen Ultima-Weapon. Wir treffen Kefka und Gestahl. Celda wird aufgefordert, die anderen zu töten, richtet sich aber gegen Kefka. Kefka besiegt Gestahl und wirft ihn vom fliegenden magischen Kontinent. Kefka verschiebt die Statuen vom Kriegstriumvirat. Shaddo bleibt und versucht Kefka aufzuhalten. Die anderen springen vom Kontinent auf das Luftschiff. Auf der Welt bebt die Erde.
