@@ -15,3 +15,4 @@ Immer am Ende A drücken:
 - Aurakanone: Runter Links-Unten <-
 - Meteorit: R L Unten Oben
 - Phoenixtanz: L LU U RU R
+- Chakra R L R L oben unten

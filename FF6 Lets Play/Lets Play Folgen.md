@@ -200,7 +200,9 @@ Sie fängt einen Fisch für ihn, er stirbt.
 Celda versucht sich umzubringen, schafft es aber nicht. Sie sieht eine Möwe mit einem Stirnband und erkennt, dass die anderen noch leben könnten.
 
 Wir kommen nach Albrook:
-Gestahl-Portrait wurde verkauft an Herrn Owzer in Jidoor.
+[[Gestahl]]-Portrait wurde verkauft an Herrn Owzer in Jidoor.
 Ein Mönch sucht nach Celda. Wir gehen nach Tzen um den Mönch zu suchen.
 
 # Episode 45
+Bei Moblitz: Mombaba in der Gegend
+Wir treffen Saab und retten mit ihm ein Kind aus einem zusammenbrechenden Haus. Zusammen gehen wir weiter.
