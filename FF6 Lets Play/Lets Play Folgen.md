@@ -192,3 +192,15 @@ Wir irren auf dem magischen Kontinent umher. Wir haben den Speicherraum gefunden
 
 # Episode 43
 Wir besiegen Ultima-Weapon. Wir treffen Kefka und Gestahl. Celda wird aufgefordert, die anderen zu töten, richtet sich aber gegen Kefka. Kefka besiegt Gestahl und wirft ihn vom fliegenden magischen Kontinent. Kefka verschiebt die Statuen vom Kriegstriumvirat. Shaddo bleibt und versucht Kefka aufzuhalten. Die anderen springen vom Kontinent auf das Luftschiff. Auf der Welt bebt die Erde.
+
+# Episode 44
+Die Welt bricht auseinander. Alle fallen vom Luftschiff.
+Celda erwacht bei Dr. Cid, der sie ein Jahr lang gepflegt hat. Die Welt ist zerstört.
+Sie fängt einen Fisch für ihn, er stirbt.
+Celda versucht sich umzubringen, schafft es aber nicht. Sie sieht eine Möwe mit einem Stirnband und erkennt, dass die anderen noch leben könnten.
+
+Wir kommen nach Albrook:
+Gestahl-Portrait wurde verkauft an Herrn Owzer in Jidoor.
+Ein Mönch sucht nach Celda. Wir gehen nach Tzen um den Mönch zu suchen.
+
+# Episode 45
