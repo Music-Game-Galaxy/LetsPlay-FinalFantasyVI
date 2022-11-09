@@ -204,5 +204,16 @@ Wir kommen nach Albrook:
 Ein Mönch sucht nach Celda. Wir gehen nach Tzen um den Mönch zu suchen.
 
 # Episode 45
-Bei Moblitz: Mombaba in der Gegend
+Bei Moblitz: Ungeheuer namens "Hunbaba" in der Gegend
 Wir treffen Saab und retten mit ihm ein Kind aus einem zusammenbrechenden Haus. Zusammen gehen wir weiter.
+
+# Episode 46
+Kefkas Licht der Verurteilung
+Perra lebt bei vielen Kindern und zwei Geschwistern. Sie will nicht weg und hat die Kraft zu kämpfen verloren. Perra verliert gegen den angreifenden Hunbaba. Saab und Celda kommt und vertreibt Hunbaba. 
+
+# Episode 47
+Wir gehen nach Norden und kommen nach Nikeah. Treffen Gerad der Grobe und seine Räuber. Mit dem Schiff fahren wir nach Süd-Figaro. 
+
+Duncans Frau: Duncan trainiert nördlich von Narshe.
+
+Im Wald stehen zwei Personen - aber sie sagen nichts sinnvolles.
