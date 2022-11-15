@@ -212,8 +212,12 @@ Kefkas Licht der Verurteilung
 Perra lebt bei vielen Kindern und zwei Geschwistern. Sie will nicht weg und hat die Kraft zu kämpfen verloren. Perra verliert gegen den angreifenden Hunbaba. Saab und Celda kommt und vertreibt Hunbaba. 
 
 # Episode 47
-Wir gehen nach Norden und kommen nach Nikeah. Treffen Gerad der Grobe und seine Räuber. Mit dem Schiff fahren wir nach Süd-Figaro. 
+Wir gehen nach Norden und kommen nach Nikeah. Treffen Gerad der Grobe und seine Räuber (ist wohl Eddgar). Mit dem Schiff fahren wir nach Süd-Figaro.
 
 Duncans Frau: Duncan trainiert nördlich von Narshe.
 
-Im Wald stehen zwei Personen - aber sie sagen nichts sinnvolles.
+Im Wald rechts stehen zwei Personen - aber sie sagen nichts sinnvolles.
+
+# Episode 48
+Wir verlassen die Stadt und gehen nach Westen in die Wüste. Dort ist nichts.
+Wir gehen in eine Höhle. Dort ist auch nichts. Als nächstes wollen wir in die Stadt.
