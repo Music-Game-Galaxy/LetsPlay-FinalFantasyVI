@@ -16,3 +16,4 @@ Immer am Ende A drücken:
 - Meteorit: R L Unten Oben
 - Phoenixtanz: L LU U RU R
 - Chakra R L R L oben unten
+- Klingensturm (Wind) o or r ur u ul l

@@ -221,3 +221,9 @@ Im Wald rechts stehen zwei Personen - aber sie sagen nichts sinnvolles.
 # Episode 48
 Wir verlassen die Stadt und gehen nach Westen in die Wüste. Dort ist nichts.
 Wir gehen in eine Höhle. Dort ist auch nichts. Als nächstes wollen wir in die Stadt.
+
+# Episode 49
+Wir gehen wieder in die Stadt und treffen Eddga im Pub. Dann wieder in die Höhle, dort wartet Siegfried, den wir noch nicht kennen. In der Höhle folgen wir den Piraten und Gerad/Eddga bis zum von einem Monster besessenen Antrieb. Wir besiegen die Tentakel. Die Piraten hauen mit der Beute ab. Wir bleiben in der Burg.
+
+# Episode 50
+Wir erkunden Burg Figaro. Saab sucht sein Meerschweinchen. Wir fahren mit ihr nach Kohlingen. Dort treffen wir Citzer. Wir gehen kurz in das Haus mit Luckes konservierter Ex.
