@@ -227,3 +227,9 @@ Wir gehen wieder in die Stadt und treffen Eddga im Pub. Dann wieder in die Höhl
 
 # Episode 50
 Wir erkunden Burg Figaro. Saab sucht sein Meerschweinchen. Wir fahren mit ihr nach Kohlingen. Dort treffen wir Citzer. Wir gehen kurz in das Haus mit Luckes konservierter Ex.
+
+# Episode 51
+Wir gehen zu Darills Grab. Dort kämpfen wir uns durch und drücken Schalter. Wir treffen auf ein Rätsel, bei dem man eine Inschrift in einen Grabstein einmeißeln muss. Wir verstehen das Rätsel nicht und beenden die Folge.
+
+# Episode 52
+Wir lösen das Rätsel "Auf ewigen Frieden". Wir beenden den Dungeon, finden im 3. OG das Doppler-Ei und finden das Luftschiff. Wir werden zur nächsten Stadt gebracht.
