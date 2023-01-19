@@ -233,3 +233,16 @@ Wir gehen zu Darills Grab. Dort kämpfen wir uns durch und drücken Schalter. Wi
 
 # Episode 52
 Wir lösen das Rätsel "Auf ewigen Frieden". Wir beenden den Dungeon, finden im 3. OG das Doppler-Ei und finden das Luftschiff. Wir werden zur nächsten Stadt gebracht.
+
+# Episode 53
+## Maranda
+- schneller Pirat
+- einkaufen
+- Alte Frau sagt, wo Narshe, Bestienfeld und Burg Doma ist
+- Eine Frau will, dass wir einen Brief an Cyjan verschicken. Wir verschicken ihn per Brieftaube und bekommen gezeigt, wo die Taube hingeflogen ist (links mitte)
+## Thamasa
+nichts wichtiges
+## Bestienfeld
+Ende
+
+# Episode 54
