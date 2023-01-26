@@ -243,6 +243,18 @@ Wir lösen das Rätsel "Auf ewigen Frieden". Wir beenden den Dungeon, finden im 
 ## Thamasa
 nichts wichtiges
 ## Bestienfeld
-Ende
+gelandet + Ende
 
 # Episode 54
+Grotte am Bestienfeld
+Wir treffen vier Piraten. Sie wollen [[Mau]] anlocken und dürfen daher nur zu dritt unterwegs sein.
+Wir durchqueren die Höhle und finden [[Relm X]] und den Tod. Zwei Behemoth-Könige greifen an, wir besiegen sie und bringen [[Relm X]] nach [[Tamasa]].
+
+# Episode 55
+Narsh: Alle Gebäude abgeschlossen, vermutlich brauchen wir Lucke.
+
+Kolosseum:
+Soldat sagt: "Rede zweimal mit dem Imperator!" (hat er auch Lucke gesteckt)
+Wir kämpfen ein paar Mal, es ist Unsinn.
+
+Wir suchen Burg Doma und hören davor auf.
