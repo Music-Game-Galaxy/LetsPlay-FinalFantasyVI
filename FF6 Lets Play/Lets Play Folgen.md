@@ -251,7 +251,7 @@ Wir treffen vier Piraten. Sie wollen [[Mau]] anlocken und dürfen daher nur zu d
 Wir durchqueren die Höhle und finden [[Relm X]] und den Tod. Zwei Behemoth-Könige greifen an, wir besiegen sie und bringen [[Relm X]] nach [[Tamasa]].
 
 # Episode 55
-[[Narshe]]: Alle Gebäude abgeschlossen, vermutlich brauchen wir [[Lucke]].
+[[Narshe]]: Alle Gebäude sind abgeschlossen, vermutlich brauchen wir [[Lucke]].
 
 [[Kolosseum]]:
 Soldat sagt: "Rede zweimal mit dem [[Imperator]]!" (hat er auch [[Lucke]] gesteckt)
