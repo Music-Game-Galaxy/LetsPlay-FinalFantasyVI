@@ -258,3 +258,15 @@ Soldat sagt: "Rede zweimal mit dem [[Imperator]]!" (hat er auch [[Lucke]] gestec
 Wir kämpfen ein paar Mal, es ist Unsinn.
 
 Wir suchen [[Burg Doma]] und hören davor auf.
+
+# Episode 56
+Burg Doma: Nichts da, nur Kisten.
+
+Zozo: Wir laufen durch die Gebäude, bekommen einen Entroster und öffnen eine Tür, die vorher verschlossen war. 
+
+# Episode 57
+Wir gehen in die Berge von Zozo.
+
+Wir finden den Sturmdrachen und besiegen ihn. Es war der erste von 8 Drachen.
+
+Wir finden die Höhle von Cyjan. Es liegt ein langer Brief von ihm dort, der nicht abgeschickt wurde. Dort steht auch eine verschlossene Truhe.
