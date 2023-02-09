@@ -29,3 +29,11 @@ Offizier=Ausholen(okay)
 Hirnisse=Schlummerstachel
 Krümler = Engel
 Papolium=Klammern
+
+Garnelius = ?
+Karotter = ?
+Ballon = ?
+Apokrypha = ?
+Misfit = ?
+Bonakon = ?
+Adaman-Kerry = ?
