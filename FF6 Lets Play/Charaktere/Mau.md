@@ -30,10 +30,10 @@ Hirnisse=Schlummerstachel
 Krümler = Engel
 Papolium=Klammern
 
-Garnelius = ?
-Karotter = ?
+Garnelius = Medica
+Karotter = Vitra
 Ballon = ?
 Apokrypha = ?
 Misfit = ?
 Bonakon = ?
-Adaman-Kerry = ?
+Adaman-Kerry = 

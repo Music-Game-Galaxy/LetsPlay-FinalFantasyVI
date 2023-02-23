@@ -274,7 +274,10 @@ Wir finden die Höhle von Cyjan. Es liegt ein langer Brief von ihm dort, der nic
 # Episode 58
 Wir treffen Cyjan wieder. 
 Bestienfeld --> Mau kommt zurück, lernt ein paar Sachen
-Phoenixgruppe --> zwei Gruppen bilden --> wieder raus
+Phoenixgrotte --> zwei Gruppen bilden --> wieder raus
 Mit Cyjan durch Burg Doma --> nichts besonderes gefunden
 
 # Episode 59
+In einem Haus treffen wir den Vater von Mau. [[Saab]] kleidet [[Mau]] neu ein, um seinen Vater das erste Mal zu treffen. Er hat [[Mau]] als Baby auf dem Bestienfeld ausgesetzt und erzählt uns davon. Wir verlassen ihn wieder.
+
+In Narshe gehen wir in die Höhlen und treffen [[Mogman]]. Er sagt, dass es noch einen Yeti in den Höhlen lebt und mitkommen würde. Wir gehen wieder aus den Höhlen raus, um den Mog in die Party zu wechseln.
