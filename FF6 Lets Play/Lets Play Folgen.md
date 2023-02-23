@@ -272,3 +272,9 @@ Wir finden den Sturmdrachen und besiegen ihn. Es war der erste von 8 Drachen.
 Wir finden die Höhle von Cyjan. Es liegt ein langer Brief von ihm dort, der nicht abgeschickt wurde. Dort steht auch eine "fest" verschlossene Truhe.
 
 # Episode 58
+Wir treffen Cyjan wieder. 
+Bestienfeld --> Mau kommt zurück, lernt ein paar Sachen
+Phoenixgruppe --> zwei Gruppen bilden --> wieder raus
+Mit Cyjan durch Burg Doma --> nichts besonderes gefunden
+
+# Episode 59
