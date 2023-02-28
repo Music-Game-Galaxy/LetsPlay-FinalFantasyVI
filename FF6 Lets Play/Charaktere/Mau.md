@@ -32,8 +32,8 @@ Papolium=Klammern
 
 Garnelius = Medica
 Karotter = Vitra
-Ballon = ?
-Apokrypha = ?
-Misfit = ?
-Bonakon = ?
-Adaman-Kerry = 
+Ballon = Levitas, Angriff, Kamikaze
+Apokrypha = Konfus St. 3
+Misfit = klaut etwas Leben
+Bonakon = Phlegma
+Adaman-Kerry = Saurer Regen auf alle, vergiftet

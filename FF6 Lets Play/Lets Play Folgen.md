@@ -283,3 +283,11 @@ In einem Haus treffen wir den Vater von Mau. [[Saab]] kleidet [[Mau]] neu ein, u
 In Narshe gehen wir in die Höhlen und treffen [[Mogman]]. Er sagt, dass es noch einen Yeti in den Höhlen lebt und mitkommen würde. Wir gehen wieder aus den Höhlen raus, um den Mog in die Party zu wechseln.
 
 # Episode 60
+Wir suchen den Yeti.
+Finden das Mog-Amulett zum Vermeiden von Zufallskämpfen.
+Treffen den Drachen, sterben.
+
+# Episode 61
+Wir besiegen den Drachen, dann die Esper Valigarmanda.
+Wir springen vom Berg und fallen in die Yeti-Höhle. Wir beginnen mit der Suche nach dem Yeti.
+Ende am Scheideweg.
