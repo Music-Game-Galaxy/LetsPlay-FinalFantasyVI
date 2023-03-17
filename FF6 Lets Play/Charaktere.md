@@ -12,6 +12,8 @@ Figur|Sprecher|Stimme
 [[Citzer]]|Kai|Layton/Falcon
 [[Straps]]|Daniele|lüstern
 [[Relm X]]|Kai|kindlich
+[[Umamio]]|Daniele|italienisch/Mario
+
 
 
 ## wichtige NPCs

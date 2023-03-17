@@ -291,3 +291,9 @@ Treffen den Drachen, sterben.
 Wir besiegen den Drachen, dann die Esper Valigarmanda.
 Wir springen vom Berg und fallen in die Yeti-Höhle. Wir beginnen mit der Suche nach dem Yeti.
 Ende am Scheideweg.
+
+# Episode 62
+In der Höhle des Yetis finden wir eine Esper. Wir besiegen [[Umamio]] und er schließt sich uns an.
+
+# Episode 63
+In Moblitz finden wir Perra erneut. Hunbaba greift an, wir besiegen ihn. [[Perra]] verwandelt sich und schließt sich uns an.
