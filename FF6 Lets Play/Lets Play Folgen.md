@@ -297,3 +297,16 @@ In der Höhle des Yetis finden wir eine Esper. Wir besiegen [[Umamio]] und er sc
 
 # Episode 63
 In Moblitz finden wir Perra erneut. Hunbaba greift an, wir besiegen ihn. [[Perra]] verwandelt sich und schließt sich uns an.
+
+# Episode 64
+Jidoor besucht, Relm X gesucht, nicht gefunden. Auktionshaus besucht, Bowser und Bowser Jr. haben ein Luftschiffmodell gefunden.
+
+Gestahl-Portrait gefunden, wenn es dunkel war, haben wir den Brief gefunden. Wo sich Berge wie ein Stern kreuzen oder so ähnlich.
+
+Im Opernhaus war der Erddrache, im zweiten Versuch besiegt.
+
+# Episode 65
+Nach Tamasa, dort ist Relm X. Dann ist sie weg. wir gehen wieder nach Jidoor. In Owzers Villa finden wir einen Geheimgang.
+
+Wir wollen durch die Tür direkt nach oben gehen.
+Der Yeti hat immer noch das Doppler-Ei.
