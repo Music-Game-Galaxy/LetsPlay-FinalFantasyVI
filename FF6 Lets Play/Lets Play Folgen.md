@@ -310,3 +310,9 @@ Nach [[Tamasa]], dort ist [[Relm X]]. Dann ist sie weg. wir gehen wieder nach [[
 
 Wir wollen durch die Tür direkt nach oben gehen.
 Der Yeti hat immer noch das Doppler-Ei.
+
+# Episode 66
+Wir finden Owzer und [[Relm X]]. Das Bild ist von einem Dämon besessen. Wir besiegen den Dämon und bekommen einen Maginiten. Im Auktionshaus bekommen wir noch einen Maginiten.
+
+# Episode 67
+Wir gehen zum Tower of Fanatics und bekommen [[Straps]]. Mit der Gurkentruppe kommen wir nicht weit, da nur Magie einsetzbar ist. Wir tauschen die Truppe und beginnen den Aufstieg.
