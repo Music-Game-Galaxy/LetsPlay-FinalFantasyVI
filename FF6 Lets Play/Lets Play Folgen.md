@@ -316,3 +316,9 @@ Wir finden Owzer und [[Relm X]]. Das Bild ist von einem Dämon besessen. Wir bes
 
 # Episode 67
 Wir gehen zum Tower of Fanatics und bekommen [[Straps]]. Mit der Gurkentruppe kommen wir nicht weit, da nur Magie einsetzbar ist. Wir tauschen die Truppe und beginnen den Aufstieg.
+
+# Episode 68
+Wir finden im Tower einen Sicherheitsbit und klettern wieder runter. Wir fliegen zur Phoenix-Grotte, rüsten die beiden Teams auf, laufen zu einer Kiste und fallen runter.
+
+# Episode 69
+Wir laufen in der Höhle herum. Am Ende springen wir über die Steine.
