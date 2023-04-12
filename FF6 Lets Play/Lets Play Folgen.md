@@ -318,7 +318,11 @@ Wir finden Owzer und [[Relm X]]. Das Bild ist von einem Dämon besessen. Wir bes
 Wir gehen zum Tower of Fanatics und bekommen [[Straps]]. Mit der Gurkentruppe kommen wir nicht weit, da nur Magie einsetzbar ist. Wir tauschen die Truppe und beginnen den Aufstieg.
 
 # Episode 68
-Wir finden im Tower einen Sicherheitsbit und klettern wieder runter. Wir fliegen zur Phoenix-Grotte, rüsten die beiden Teams auf, laufen zu einer Kiste und fallen runter.
+Wir befinden uns im "Tower of Fanatics". Es könnte sich dabei um einen Turm oder ein Gebäude handeln, das von Fanatikern oder Enthusiasten einer bestimmten Sache bewohnt oder genutzt wird.
+
+Nachdem wir den Sicherheitsbit im Tower gefunden haben, machen wir uns auf den Rückweg und verlassen den Tower. Anschließend fliegen wir zur "Phoenix-Grotte", wo sich unsere beiden Teams befinden. Hier rüsten wir sie mit Ausrüstung und Waffen aus, um uns auf kommende Herausforderungen vorzubereiten.
+
+Nach der Ausrüstung laufen wir gemeinsam zu einer Kiste, die möglicherweise wichtige Gegenstände oder Informationen enthält. Währenddessen kommt es jedoch zu einem unvorhergesehenen Ereignis und wir fallen oder stürzen plötzlich hinunter. Dies kann uns in eine gefährliche Situation bringen und wir müssen schnell handeln, um uns und unsere Teams zu retten.
 
 # Episode 69
-Wir laufen in der Höhle herum. Am Ende springen wir über die Steine.
+Wir befinden uns in einer Höhle und gehen darin umher. Dabei können wir vermutlich nur schwer sehen, da es vermutlich sehr dunkel ist und möglicherweise auch Hindernisse wie Felsen im Weg liegen. Am Ende der Höhle angekommen, müssen wir anscheinend über einige Steine springen, um weiterzukommen. Es ist jedoch unklar, warum wir uns in der Höhle aufhalten und wohin wir nach dem Sprung über die Steine gelangen werden.
