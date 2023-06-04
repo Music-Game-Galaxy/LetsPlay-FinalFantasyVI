@@ -328,6 +328,11 @@ Nach der Ausrüstung laufen wir gemeinsam zu einer Kiste, die möglicherweise wi
 Wir befinden uns in einer Höhle und gehen darin umher. Dabei können wir vermutlich nur schwer sehen, da es vermutlich sehr dunkel ist und möglicherweise auch Hindernisse wie Felsen im Weg liegen. Am Ende der Höhle angekommen, müssen wir anscheinend über einige Steine springen, um weiterzukommen. Es ist jedoch unklar, warum wir uns in der Höhle aufhalten und wohin wir nach dem Sprung über die Steine gelangen werden.
 
 # Episode 70
-Wir laufen weiter durch die Höhle. Wir kommen zum Ende.
-Wir besiegen den Roten Drachen (noch vier verbleibend).
+Wir laufen weiter durch die Höhle. 
+
+# Episode 71
+Wir kommen zum Ende. Wir besiegen den Roten Drachen (noch vier verbleibend).
 Am Ende der Höhle finden wir Lucke. Er hat den Phoenix-Maginiten gefunden und möchte Rachel wiederbeleben, aber der Maginit ist zersplittert. Rachel wird kurz wiederbelebt, bedankt sich bei Lucke für die schöne Zeit und stirbt. Wir bekommen die Esper Phoenix.
+
+# Episode 72
+Um Gogo zu finden gehen wir zum Triangle Island (Nordosten) und lassen uns von einem Raumfresser inhalieren. Im Inneren des Raumfressers bewegen wir uns fort. Wir springen über Brücken und grüne Männchen schubsen uns herunter. Wir beenden die Episode an einem Speicherpunkt.
