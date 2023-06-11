@@ -13,7 +13,7 @@ Figur|Sprecher|Stimme
 [[Straps]]|Daniele|lüstern
 [[Relm X]]|Kai|kindlich
 [[Umamio]]|Daniele|italienisch/Mario
-Shogo|Kai|wie Shadow, aber höher, ein bisschen wie Battlecat
+[[Shogo]]|Kai|wie Shadow, aber höher, ein bisschen wie Battlecat
 
 
 
