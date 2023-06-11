@@ -336,3 +336,9 @@ Am Ende der Höhle finden wir Lucke. Er hat den Phoenix-Maginiten gefunden und m
 
 # Episode 72
 Um Gogo zu finden gehen wir zum Triangle Island (Nordosten) und lassen uns von einem Raumfresser inhalieren. Im Inneren des Raumfressers bewegen wir uns fort. Wir springen über Brücken und grüne Männchen schubsen uns herunter. Wir beenden die Episode an einem Speicherpunkt.
+
+# Episode 73
+Wir finden Gogo - das war etwas unspektakulär. Wir probieren verschiedene Partymitglieder aus:
+- Gogo kann die letzte Aktion eines anderen Charakters mimen
+- Relm X kann mit einem Accessoire die Kontrolle über einen Gegner übernehmen
+- Mogman kann mit zwei Accessoires eine starke Sprungserie machen
