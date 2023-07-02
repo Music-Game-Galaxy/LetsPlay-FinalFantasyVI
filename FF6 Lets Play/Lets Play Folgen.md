@@ -342,3 +342,11 @@ Wir finden Gogo - das war etwas unspektakulär. Wir probieren verschiedene Party
 - Gogo kann die letzte Aktion eines anderen Charakters mimen
 - Relm X kann mit einem Accessoire die Kontrolle über einen Gegner übernehmen
 - Mogman kann mit zwei Accessoires eine starke Sprungserie machen
+
+# Episode 74
+Wir fliegen zu Burg Doma. Wir schlafen und drei gruselige Kinder erscheinen und wollen sich an Cyjans Träumen laben. Wir springen in die Träume von Cyjan. Dort besiegen wir die drei Kinder und kommen in den Phantom Train. Dort lösen wir Schieberätsel.
+
+# Episode 75
+Wir verlassen den Phantom Train und kommen in einen Loop, aus dem wir durch Rückwärtslaufen ausbrechen. Die Frau und das Kind von Cyjan erklären uns, dass Arekseele Cyjan in seiner Gewalt hat, da dieser sich Vorwürfe für ihren Tod und den Untergang von Burg Doma macht. Wir finden Arekseele und greifen ihn an.
+
+# Episode 76
