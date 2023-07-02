@@ -350,3 +350,7 @@ Wir fliegen zu Burg Doma. Wir schlafen und drei gruselige Kinder erscheinen und 
 Wir verlassen den Phantom Train und kommen in einen Loop, aus dem wir durch Rückwärtslaufen ausbrechen. Die Frau und das Kind von Cyjan erklären uns, dass Arekseele Cyjan in seiner Gewalt hat, da dieser sich Vorwürfe für ihren Tod und den Untergang von Burg Doma macht. Wir finden Arekseele und greifen ihn an.
 
 # Episode 76
+In einem schweren Kampf besiegen wir Arekseele und bekommen ein Masamune und den Alexander-Maginiten.
+
+# Episode 77
+Wir besiegen 10 Kaktoren und Kaktorius greift an. Wir sterben.
