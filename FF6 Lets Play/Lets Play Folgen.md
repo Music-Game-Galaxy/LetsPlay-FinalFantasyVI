@@ -354,3 +354,9 @@ In einem schweren Kampf besiegen wir Arekseele und bekommen ein Masamune und den
 
 # Episode 77
 Wir besiegen 10 Kaktoren und Kaktorius greift an. Wir sterben.
+
+# Episode 78
+Wir bilden eine neue Party für Kaktorius und sterben noch schneller. Danach fliegen wir zu Kefkas Turm.
+
+# Episode 79
+Wir bilden die drei Partys und betreten Kefkas Turm. Danach rüsten wir alle Gefährten aus. Wir beginnen mit Party 1 (Perra) den Turm zu betreten. Von ein paar Gegnern lernt Strapso sehr viel Blaumagie.
