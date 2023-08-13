@@ -29,7 +29,6 @@ Offizier=Ausholen(okay)
 Hirnisse=Schlummerstachel
 Krümler = Engel
 Papolium=Klammern
-
 Garnelius = Medica
 Karotter = Vitra
 Ballon = Levitas, Angriff, Kamikaze

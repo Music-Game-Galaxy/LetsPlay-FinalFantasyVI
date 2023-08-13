@@ -360,3 +360,6 @@ Wir bilden eine neue Party für Kaktorius und sterben noch schneller. Danach fli
 
 # Episode 79
 Wir bilden die drei Partys und betreten Kefkas Turm. Danach rüsten wir alle Gefährten aus. Wir beginnen mit Party 1 (Perra) den Turm zu betreten. Von ein paar Gegnern lernt Strapso sehr viel Blaumagie.
+
+# Episode 80
+Wir spielen Party 2 (Eddga), laufen den Weg entlang, besiegen einige Gegner und finden ein paar Gegenstände. Das nächste Mal: Weiter mit Luckes Party.
