@@ -363,3 +363,6 @@ Wir bilden die drei Partys und betreten Kefkas Turm. Danach rüsten wir alle Gef
 
 # Episode 80
 Wir spielen Party 2 (Eddga), laufen den Weg entlang, besiegen einige Gegner und finden ein paar Gegenstände. Das nächste Mal: Weiter mit Luckes Party.
+
+# Episode 81
+Wir spielen mit der Lucke-Party und besiegen Ultima-Buster. Es erscheint ein Speicherpunkt. Das nächste Mal weiter mit der Perra-Party.
