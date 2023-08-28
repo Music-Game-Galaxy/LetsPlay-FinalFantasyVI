@@ -366,3 +366,4 @@ Wir spielen Party 2 (Eddga), laufen den Weg entlang, besiegen einige Gegner und 
 
 # Episode 81
 Wir spielen mit der Lucke-Party und besiegen Ultima-Buster. Es erscheint ein Speicherpunkt. Das nächste Mal weiter mit der Perra-Party.
+
