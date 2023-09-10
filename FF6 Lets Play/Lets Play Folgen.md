@@ -367,3 +367,7 @@ Wir spielen Party 2 (Eddga), laufen den Weg entlang, besiegen einige Gegner und 
 # Episode 81
 Wir spielen mit der Lucke-Party und besiegen Ultima-Buster. Es erscheint ein Speicherpunkt. Das nächste Mal weiter mit der Perra-Party.
 
+# Episode 82
+
+# Episode 83
+Wir besiegen den Knochendrachen. Die Eddga-Party findet einen Doppelschalter und wartet auf eine andere Party. Die Lucke-Party läuft weiter. Ende bei Röhren, das nächste Mal weiter mit der Lucke-Party.
