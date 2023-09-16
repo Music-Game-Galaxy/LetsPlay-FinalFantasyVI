@@ -371,3 +371,5 @@ Wir spielen mit der Lucke-Party und besiegen Ultima-Buster. Es erscheint ein Spe
 
 # Episode 83
 Wir besiegen den Knochendrachen. Die Eddga-Party findet einen Doppelschalter und wartet auf eine andere Party. Die Lucke-Party läuft weiter. Ende bei Röhren, das nächste Mal weiter mit der Lucke-Party.
+# Episode 84
+Mit der Lucke-Party finden wir den Schalter für die Perra-Party und machen ihr den Weg frei. Wir finden den Blitz-Drachen und besiegen ihn schnell. Die Lucke-Party findet den zweiten Schalter bei der Eddga-Party. Mit der Perra-Party kommen wir ebenfalls zu den beiden anderen Partys dazu.
