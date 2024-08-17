@@ -24,7 +24,7 @@ Erzähler|BROOK|Langsam, etwas tiefer
 [[Kefka]]|DJDON|Kinski
 [[Gestahl]]|MCCID|militärisch, ganz leicht Hitlermässig
 [[Banon]]|BROOK|laut, Löwe
-[[Leo]]|Dan|weich, wie Leoardo di Caprio in Titanic
+[[Leo]]|DJDON|weich, wie Leoardo di Caprio in Titanic
 
 ### NPCs
 
